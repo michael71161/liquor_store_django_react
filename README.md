@@ -9,6 +9,13 @@ The project done for educational porpuses only!
 Done by: Michael Mogilianski 
 visit my GitHub: https://github.com/michael71161
 
+*****************************************************************************************
+
+* Live Demo at: https://djangoprojfront.onrender.com 
+
+****************************************************************************************
+
+
 
 ![DEMO](../EStore_Django_redux/backend/media/Posted_Images/sitedemo.jpg)
 
